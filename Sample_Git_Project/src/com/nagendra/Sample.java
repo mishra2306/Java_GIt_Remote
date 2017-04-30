@@ -14,5 +14,10 @@ public class Sample {
 		operation = new ArithmeticOperation();
 		System.out.println("Add Operation : "+operation.operataion(200, 300));
 		
+		System.out.println("hello how are you nitiin....");
+		
+		
+		
+		
 	}
 }
