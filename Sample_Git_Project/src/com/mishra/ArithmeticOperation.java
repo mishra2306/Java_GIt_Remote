@@ -6,4 +6,5 @@ public class ArithmeticOperation {
 	{
 		return a+b;
 	}
+	
 }
