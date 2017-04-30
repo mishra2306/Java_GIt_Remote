@@ -14,7 +14,7 @@ public class Sample {
 		System.out.println("Update from Nitin");
 		System.out.println("Bas Kar Le Bhai");
 		
-			System.out.println("hello how are you Nitin....");
+		System.out.println("hello how are you Nitin....");
 		
 		//New Substration Method
 		Substraction sb=new Substraction();
