@@ -1,4 +1,5 @@
 package com.nagendra;
+import com.mishra.StringLowerCase;
 import com.nitin.StringUpperCase;
 import com.pawar.Substraction;
 
@@ -25,6 +26,12 @@ public class Sample {
 		strUpper = new StringUpperCase();
 		String newStr = strUpper.stringUpperCase("nagendra kumar mishra");
 		System.out.println(newStr);
+		//New Functionality String Lower Case
+			StringLowerCase strlow = null;
+				strlow = new  StringLowerCase();
+				 String str2= strlow.tolowerString("NITIN PAWAR IN LOWER CASE");
+				System.out.println(str2);
+
 
 	}
 }
