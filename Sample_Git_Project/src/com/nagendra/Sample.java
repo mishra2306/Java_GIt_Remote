@@ -35,7 +35,5 @@ public class Sample {
 		//100 lines of code start		
 		System.out.println("Now I at my Home........");
 
-
-				
 	}  
 }
