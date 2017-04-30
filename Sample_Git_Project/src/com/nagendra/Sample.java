@@ -33,6 +33,9 @@ public class Sample {
 				strlow = new  StringLowerCase();
 				 String str2= strlow.tolowerString("NITIN PAWAR IN LOWER CASE");
 				System.out.println(str2);
+		
+		//100 lines of code start		
+		System.out.println("Now I at my Home........");
 
 
 				
