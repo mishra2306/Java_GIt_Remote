@@ -26,6 +26,8 @@ public class Sample {
 		strUpper = new StringUpperCase();
 		String newStr = strUpper.stringUpperCase("nagendra kumar mishra");
 		System.out.println(newStr);
+		
+		
 		//New Functionality String Lower Case
 			StringLowerCase strlow = null;
 				strlow = new  StringLowerCase();
