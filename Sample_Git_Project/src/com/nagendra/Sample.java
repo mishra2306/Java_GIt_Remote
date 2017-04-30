@@ -19,5 +19,5 @@ public class Sample {
 		Substraction sb=new Substraction();
 		System.out.println("Diffrence : "+sb.sub(50, 30));
 
-	}
+	}  
 }
