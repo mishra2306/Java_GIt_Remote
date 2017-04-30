@@ -1,4 +1,5 @@
 package com.nagendra;
+import com.nitin.StringUpperCase;
 import com.pawar.Substraction;
 
 public class Sample {
@@ -18,6 +19,12 @@ public class Sample {
 		//New Substration Method
 		Substraction sb=new Substraction();
 		System.out.println("Diffrence : "+sb.sub(50, 30));
+		
+		//New Functionality String Upper Case
+		StringUpperCase strUpper = null;
+		strUpper = new StringUpperCase();
+		String newStr = strUpper.stringUpperCase("nagendra kumar mishra");
+		System.out.println(newStr);
 
 	}
 }
